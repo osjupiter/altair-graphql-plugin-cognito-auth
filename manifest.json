@@ -1,0 +1,18 @@
+{
+    "manifest_version": 1,
+    "name": "altair-graphql-plugin-cognito-auth",
+    "version": "0.0.1",
+    "display_name": "GraphQL Cognito Auth",
+    "description": "GraphQL Cognito Auth for Altair GraphQL",
+    "author_email": "altair@sirmuel.design",
+    "author": "Altair GraphQL Client",
+    "type": "header",
+    "sidebar_opts": {
+        "element_name": "altair-graphql-plugin-cognito-auth",
+        "icon": "assets/icon.svg"
+    },
+    "scripts": [
+        "dist/index.js"
+    ],
+    "plugin_class": "AltairPluginName"
+}
